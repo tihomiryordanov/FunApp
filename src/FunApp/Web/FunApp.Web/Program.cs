@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FunApp.Webb
+namespace FunApp.Web
 {
     public class Program
     {

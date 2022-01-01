@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <UserSecretsId>aspnet-FunApp.Webb-48B07CDA-C3DF-414E-8313-7A58E1F7F36E</UserSecretsId>
+    <UserSecretsId>aspnet-FunApp.Web-DB0EA02D-D74E-4CAC-AA77-68ACE3746D36</UserSecretsId>
     <CopyRefAssembliesToPublishDirectory>false</CopyRefAssembliesToPublishDirectory>
   </PropertyGroup>
 

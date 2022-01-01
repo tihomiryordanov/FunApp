@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace FunApp.Webb.Data
+namespace FunApp.Web.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
