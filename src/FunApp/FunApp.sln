@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunApp.Web", "Web\FunApp.Web\FunApp.Web.csproj", "{D3140378-4542-4410-AC96-3454D68B89D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunApp.Web", "Web\FunApp.Web\FunApp.Web.csproj", "{D58DFF60-155B-42BD-8D70-67C351F8A89B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D3140378-4542-4410-AC96-3454D68B89D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3140378-4542-4410-AC96-3454D68B89D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3140378-4542-4410-AC96-3454D68B89D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D3140378-4542-4410-AC96-3454D68B89D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58DFF60-155B-42BD-8D70-67C351F8A89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58DFF60-155B-42BD-8D70-67C351F8A89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58DFF60-155B-42BD-8D70-67C351F8A89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58DFF60-155B-42BD-8D70-67C351F8A89B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {27DB9B20-61E5-40CE-9562-00B2C7FA6A83}
+		SolutionGuid = {B8538893-C889-4A0E-BFA4-31117BF76168}
 	EndGlobalSection
 EndGlobal
